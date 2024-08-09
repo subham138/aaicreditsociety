@@ -1,0 +1,120 @@
+
+
+
+@media only screen and (max-width: 910px) {
+.navSec .navMenu ul li {margin: 0 11px;}
+.navSec .navMenu ul li a {padding-bottom: 15px;}
+.navSec .navMenu ul li ul {top: 48px;}
+}
+
+
+@media only screen and (max-width: 850px) {	
+.navSec .navMenuAdmin ul {margin: 0;}
+}
+
+@media only screen and (max-width: 830px) {	
+	.bannerBotBox {margin-top: 45px;}
+	.bannerSecCustomImg {min-height: inherit; padding-top: 74px; padding-bottom: 50px;}
+}
+
+@media only screen and (max-width: 800px) {	
+.bannerBotBox {display: inherit;}
+.bannerBotBox .box {width: 46%; margin: 0 2%; float: left; min-height: 215px; margin-bottom: 25px;}
+.aboutSec {margin-top: 35px; padding-bottom: 20px;}
+	
+}
+
+@media only screen and (max-width: 767px) {	
+.btnResponsive {display: block;}
+.navSec .navMenuAdmin{display: none;}
+.navMenuDestop{display: none;}
+.navSec .navMenuAdminRes ul {float: none; margin: 0; padding: 0;}
+.navSec .navMenuAdminRes ul li {margin: 0; float: none; border-bottom: #a8a2a2 solid 1px;}
+.navSec .navMenuAdminRes ul li a {padding: 6px 20px 6px 45px; display: block; border-radius: 0;}
+.navSec .navMenuAdminRes ul li:first-child {border-bottom: #fff solid 1px;}
+	
+.bannerSecCustomImg h1 {font-size: 22px; margin-bottom: 14px;}	
+.bannerSecCustomImg p {font-size: 16px; line-height: 27px;}
+
+.bannerSecCustomImg p a, .aboutSecLeftText p a {padding: 13px 25px; font-size: 17px;}
+.bannerSecCustomImg {padding-bottom: 35px; padding-top: 30px;}
+	
+.bannerBotBox .box h2, .bannerBotBox .box:nth-child(2) h2, .bannerBotBox .box:nth-child(4) h2 {font-size: 19px; margin-bottom: 5px;}
+
+.innerContentSec {padding: 35px 0;}
+	
+.aboutSecLeftText h2 {font-size: 24px}
+.aboutSecLeftText p {font-size: 15px; line-height: 25px;}
+
+.testimonial {padding: 25px 15px 25px 15px;}
+.testimonialLeftSub h2 {font-size: 30px; margin-bottom: 9px;}
+
+.bannerSecInner{min-height: inherit; padding: 35px 0;}
+.bannerSecInner h1 {font-size: 30px;}
+.innerContentTxt h1 {font-size: 25px; padding-bottom: 10px;}
+	
+.contactLeft, .contactRight{max-width: 100%; float: none; padding-top: 0;}
+.contactLeft .contactFormLeft ul li input[type="submit"] {font-size: 15px; padding: 8px 25px;}
+
+.loginWraper h1 {
+    font-size: 20px;
+    margin-bottom: 9px;
+    padding-bottom: 7px;
+}
+
+.uploadCSV .csvBtn {margin: 0 10px; font-size: 15px;}
+
+.statementBTn .allStatementBtn {margin: 0 8px; padding: 5px 15px; font-size: 14px;}
+
+.statementBTn {text-align: center;}
+.leftText p {text-align: center; font-size: 13px; line-height: 12px; margin-bottom:15px;}
+
+.tableCustom thead th {font-size: 11px;}
+.tableCustom table, .tableCustom td {font-size: 11px;}
+}
+
+@media only screen and (max-width:614px) {
+.footerAdd, .footerNav, .footerMap {width: 100%}
+}
+
+@media only screen and (max-width:602px) {	
+.bannerBotBox .box {width: 96%; min-height: inherit;}
+}
+
+@media only screen and (max-width:576px) {	
+	.logoArea{max-width:20%; float: left;}
+	.navSec{max-width: 80%; float: left;}
+	
+	.navSec .whatsApp i {font-size: 16px;}
+	.navSec .whatsApp {font-size: 14px;}
+	.navSec .whatsApp a {font-size: 14px;}
+	
+	.aboutSecLeftText h2 {font-size: 18px; margin-bottom: 10px;}
+	
+	.bannerSecCustomImg p a, .aboutSecLeftText p a {padding: 6px 19px; font-size: 15px;}
+	.testimonialLeftSub h2 {font-size: 20px; margin-bottom: 7px; padding-bottom: 10px;}
+	.testimonialLeftSub ul li {font-size: 14px; margin-bottom: 6px; max-width: 100%; width: 100%; float: none;}
+	
+	.phonTop, .emailTop{display: block;}
+	.navSec .whatsApp {margin-bottom: 0;}
+	.open-menu {padding: 5px 11px; border-radius: 7px;}
+	.logoArea {max-width: 30%;}
+	.logoArea img{max-width: 64px;}
+	.navSec {max-width: 70%;}
+	
+	.statementTitle h5 {font-size: 18px;}
+}
+	
+@media only screen and (max-width: 400px) {	
+.bannerSecCustomImg h1 {font-size: 20px; margin-bottom: 7px;}
+.bannerSecCustomImg p {font-size: 15px; line-height: 27px; margin-bottom: 15px;}
+	
+.bannerSecInner h1 {font-size: 23px;}
+.innerContentTxt h1 {font-size: 20px; padding-bottom: 10px;}
+
+.uploadCSV .csvBtn {margin: 0 0 15px 0; font-size: 15px; display: block;}	
+.uploadCSV .csvBtn:last-child{margin-bottom:0;}
+}
+
+
+

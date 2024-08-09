@@ -1,0 +1,551 @@
+
+
+.bannerSecInner{background: url("../images/banner.jpg") no-repeat; background-size: cover; min-height: 300px; padding-top: 74px;; padding-bottom: 50px;
+	text-align: center;}
+.bannerSecInner h1{font-family: 'Montserrat', sans-serif; font-size: 70px; color: #3b4bb2; font-weight: 500; margin-bottom: 25px;}
+
+.innerContentSec {
+    padding: 70px 0;
+    display: inline-block;
+    width: 100%;
+    flex: 1 0 auto; min-height: 380px;
+}
+
+.innerContentTxt p {
+    font-size: 16px;
+    color: #6b6b6b;
+    line-height: 29px;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+
+
+
+.innerContentTxt h1{color: #2D2E2E;
+
+font-size: 40px;
+
+font-weight: 700;
+
+border-bottom: #3b4bb2 solid 4px;
+
+padding-right: 49px;
+
+margin-bottom: 23px;
+
+display: inline-block;
+
+padding-bottom: 16px;}
+
+.innerContentTxt h2{color: #39393a;
+
+font-size: 30px;
+
+font-weight: 700;
+
+padding: 0;
+
+margin: 0 0 10px 0;
+
+display: inline-block;
+
+line-height: 30px;
+
+}
+
+
+
+.innerContentTxt h3{color: #39393a;
+
+font-size: 22px;
+
+font-weight: 700;
+
+padding: 0;
+
+margin:0 0 14px 0;
+
+display: inline-block;
+
+line-height: 25px;
+
+}
+
+
+
+.innerContentTxt h4{color: #39393a;
+
+font-size: 18px;
+
+font-weight: 700;
+
+padding: 0;
+
+margin: 0 0 14px 0;
+
+display: inline-block;
+
+line-height: 20px;
+
+}
+
+
+
+.innerContentTxt h5{color: #39393a;
+
+font-size: 17px;
+
+font-weight: 700;
+
+padding: 0;
+
+margin: 0 0 14px 0;
+
+display: inline-block;
+
+line-height: 18px;
+
+}
+
+
+
+.innerContentTxt h6{color: #39393a;
+
+font-size: 16px;
+
+font-weight: 700;
+
+padding: 0;
+
+margin:0 0 14px 0;
+
+display: inline-block;
+
+line-height: 16px;
+
+}
+
+
+
+
+
+.contactLeft .contactFormLeft ul{margin: 0; padding: 0; list-style-type: none;}
+
+.contactLeft .contactFormLeft ul li.half{max-width: 50%; width: 100%; padding: 0 15px; float: left; margin-bottom: 15px}
+
+
+
+.contactLeft .contactFormLeft ul li.full{max-width:100%; width: 100%; padding: 0 15px; float: left; margin-bottom: 18px;}
+
+
+
+.contactLeft .contactFormLeft ul li input[type="text"], 
+
+.contactLeft .contactFormLeft ul li input[type="email"],
+
+.contactLeft .contactFormLeft ul li input[type="tel"], 
+
+.contactLeft .contactFormLeft ul li select{background: #f9f8f8; border-radius: 30px; font-size: 16px; color: #9b9b9b;
+
+	border: #f4f2f2 solid 1px; padding:11px 23px; width: 100%; font-weight: 300;}
+
+.contactLeft .contactFormLeft ul li textarea{background: #f9f8f8; border-radius: 30px; font-size: 16px; color: #9b9b9b;
+
+	border:  #f4f2f2 solid 1px; padding:11px 23px; width: 100%; height: 250px; font-weight: 300;}
+
+
+
+.contactLeft .contactFormLeft ul li input[type="text"]:focus, 
+.contactLeft .contactFormLeft ul li input[type="email"]:focus,
+.contactLeft .contactFormLeft ul li input[type="tel"]:focus, 
+.contactLeft .contactFormLeft ul li select:focus, .contactLeft .contactFormLeft ul li textarea:focus{outline: none;}
+
+
+.contactLeft .contactFormLeft ul li input[type="submit"] {
+
+    background: #3b4bb2 !important;
+
+font-size: 16px;
+
+color: #fff;
+
+border: none;
+
+border-radius: 35px;
+
+}
+
+.contactLeft .contactFormLeft ul li input[type="submit"]:hover{background:#4359e3 !important;}
+
+
+
+.contactLeft .contactFormLeft ul li.full h3{margin: 10px 0 15px 0; padding: 0 0 5px 0; font-size: 24px; color: #39393a; line-height: 22px; font-weight: 600;
+
+	border-bottom: #dbdcde solid 2px;}
+
+.contactLeft .contactFormLeft ul li.full h3 span{font-size: 15px; color: #39393a; font-weight: 300; display: block;}
+
+.contactLeft .contactFormLeft ul li.half label{font-size: 16px; color: #39393a; font-weight: 600; padding: 0 15px; margin: 0 0 10px 0;
+
+	width: 100%;}
+
+.contactLeft .contactFormLeft ul li.full label{font-size: 16px; color: #39393a; font-weight: 600; padding: 0 15px; margin: 0 0 10px 0;
+
+	width: 100%;}
+
+
+
+.wpcf7 form.failed .wpcf7-response-output, .wpcf7 form.aborted .wpcf7-response-output{clear: both;
+    font-size: 14px;
+    background: #dc3232;
+    color: #fff;
+}
+
+.wpcf7 form.sent .wpcf7-response-output{clear: both;
+    font-size: 14px;
+    background:#46b450;
+    color: #fff;
+}
+
+.wpcf7 form.invalid .wpcf7-response-output, .wpcf7 form.unaccepted .wpcf7-response-output{clear: both;
+    font-size: 14px;
+    background:#ffb900;
+    color: #fff;
+}
+
+
+.contactRight{padding-top: 82px;}
+
+.contactRight ul{list-style-type: none; padding-left: 0; }
+.contactRight ul li{font-size: 15px; color: #212121; background: url("../images/iconA.png") no-repeat 0 3px; padding-left: 20px; margin-bottom: 14px;}
+.contactRight ul li:nth-child(2){background: url("../images/iconB.png") no-repeat 0 3px;}
+.contactRight ul li:nth-child(3){background: url("../images/iconC.png") no-repeat 0 3px; margin-bottom: 0;}
+.contactRight ul li a{font-size: 15px; color: #212121; text-decoration: none;}
+
+.contactRight .contactRightAddress{padding: 15px; border-radius: 15px; background: #eee;}
+
+
+
+.bodList{max-width: 950px;}
+.bodList table{border: none;}
+
+.bodList table td{border: none; text-align: left;}
+.bodList table thead{background: #3b4bb2; color: #fff; font-weight: 700;}
+.bodList table thead tr td{font-size: 16px;}
+.bodList table thead tr td.sl{width: 4%;}
+.bodList table thead tr td.name{width: 35%;}
+.bodList table thead tr td.status{width: 15%;}
+.bodList table thead tr td.mob{width: 15%;}
+
+.bodList table tbody tr{border-bottom: #eee solid 1px;}
+
+.bodList table tbody tr td{font-size: 14px;}
+
+
+
+.employeeList{max-width: 950px;}
+.employeeList table{border: none;}
+
+.employeeList table td{border: none; text-align: left;}
+.employeeList table thead{background: #3b4bb2; color: #fff; font-weight: 700;}
+.employeeList table thead tr td{font-size: 16px; text-transform: uppercase;}
+.employeeList table thead tr td.sl{width: 4%;}
+.employeeList table thead tr td.name{width: 35%;}
+.employeeList table thead tr td.status{width: 15%;}
+.employeeList table thead tr td.mob{width: 15%;}
+
+.employeeList table tbody tr{border-bottom: #eee solid 1px;}
+
+.employeeList table tbody tr td{font-size: 14px;}
+
+
+.downloadList{max-width: 950px;}
+.downloadList table{border: none;}
+
+.downloadList table td{border: none; text-align: left;}
+.downloadList table thead{background: #3b4bb2; color: #fff; font-weight: 700;}
+.downloadList table thead tr td{font-size: 16px; text-transform: uppercase;}
+.downloadList table thead tr td.sl{width: 4%;}
+.downloadList table thead tr td.name{width: 35%;}
+.downloadList table thead tr td.status{width: 15%;}
+.downloadList table thead tr td.mob{width: 15%;}
+
+.downloadList table tbody tr{border-bottom: #eee solid 1px;}
+
+.downloadList table tbody tr td{font-size: 14px;}
+
+a.redBtnRound {
+    background: #3b4bb2;
+    color: #fff;
+	border-radius: 50px;
+	border: none;
+	padding: 10px 25px;
+	font-size: 16px;
+	display: block;
+	font-weight: 700;
+}
+a.redBtnRound:hover{background-color:#4359e3;}
+
+
+.loanListSec{}
+
+
+.priceChart {
+
+    margin-bottom: 30px; box-shadow: #e4e2e2 0px 0px 6px 3px; border-radius: 0 75px 0 53px; padding:22px 20px 40px 20px;
+
+background: #fff;
+
+}
+
+
+
+.priceChart h2.priceTitle {
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-size: 16px;
+
+    font-weight: 600;
+
+    color: #fff;
+
+    margin:0 0 12px -20px;
+
+    padding: 11px 55px 11px 20px;
+
+    background: #3b4bb2;
+
+    border-radius: 0 50px 50px 0;
+
+    display: inline-block;
+
+}
+
+
+
+
+
+
+
+.priceChart .priceBoxMain table.priceTable{margin: 0; padding: 0; border: none;}
+
+.priceChart .priceBoxMain table.priceTable thead tr th{border: none; padding: 0; text-align: left; margin: 0;}
+
+.priceChart .priceBoxMain table.priceTable tbody tr td{border: none;
+padding: 9px 0 9px 0;
+text-align: left;
+margin: 0;
+color: #131111;
+font-size: 15px;}
+.priceChart .priceBoxMain table.priceTable tbody tr{border-bottom: #eee solid 1px;}
+.priceChart .priceBoxMain table.priceTable tbody tr td i{margin-right: 3px;}
+
+.priceChart .priceBox{padding-right: 18px; width: 12.5%;}
+
+.priceChart .priceBox:last-child{padding-right: 0;}
+
+.priceChart .priceBoxMain h3 {
+
+    color: #3b4bb2;
+
+font-size: 18px;
+
+font-weight: 600;
+
+padding-bottom: 0;
+
+border-bottom: none;
+
+padding-right: 22px;
+
+margin-bottom: 10px;
+
+display: inline-block;
+
+
+
+}
+
+
+
+.priceChart .priceBox ul{list-style-type: none; margin: 0; padding: 0;}
+
+.priceChart .priceBox ul li{color:#2D2E2E; font-size: 15px; margin-bottom:5px;}
+
+.priceChart .priceBox ul li a{color: #2D2E2E;}
+
+.priceChart .priceBox ul li a:hover{color: #3b4bb2;}
+
+
+
+.innerPage {
+    padding: 70px 0;
+    display: inline-block;
+    width: 100%;
+    flex: 1 0 auto;
+}
+
+
+.loginWraper{max-width: 450px;
+  margin: 0 auto;
+  background: #f0f0f0;
+  border-radius: 6px;
+  padding: 38px 9px 12px 9px;
+  box-shadow: 0 0 9px 5px #eae9e9;
+  border: #e1dfdf solid 1px;}
+
+.loginWraper h1{color: #252525;
+
+font-size: 30px;
+
+font-weight: 300;
+
+margin-bottom: 30px;
+
+text-align: center;
+
+display: block;
+
+border: none;
+
+margin: 0 0 29px 0;
+
+padding: 0;}
+
+.loginWraper .form-control{padding:8px 15px 8px 50px; height: 45px; border: #c3c2c2 solid 1px; color: #716f6f;}
+
+.loginWraper .form-check{color: #252525; font-size: 14px; margin: 0; padding: 0;}
+
+.loginWraper .form-check input[type="checkbox"]{margin: 0; padding: 0;}
+
+.loginWraper .form-check label.form-check-label{margin: 0; padding: 0;}	
+
+.loginWraper p{color: #252525; font-size: 16px; text-align: center;}
+
+.loginWraper p a{text-decoration: underline; color: #252525;}
+
+.loginWraper p a:hover{text-decoration: none;}
+
+
+
+label.inputWraper{position: relative; width: 100%; margin: 0; padding: 0;}
+
+label.inputWraper i{position: absolute; color: #9e9d9d; font-size: 17px; top: 12px; left: 20px;}
+
+
+
+.btnRed{background: #3b4bb2; padding:12px 30px !important; line-height: 19px;font-size: 16px; color: #fff; text-transform: uppercase; width: 100%;}
+
+.btnRed:hover {background: #4359e3; color: #fff;}
+
+.btn-primary {
+    color: #fff;
+    background-color: #3b4bb2;
+    border-color: #3b4bb2;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #4359e3;
+    border-color: #4359e3;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #3b4bb2;
+    border-color: #3b4bb2;
+}
+
+.page-item.active .page-link:hover {
+    z-index: 1;
+    color: #fff;
+    text-decoration: none;
+    background-color: #4359e3;
+    border-color: #4359e3;
+}
+
+.page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #3b4bb2;
+    border-color: #3b4bb2;
+}
+.page-link:hover {
+    z-index: 2;
+    color: #0056b3;
+    text-decoration: none;
+    background-color: #4359e3;
+    border-color: #4359e3;
+}
+
+.loginWraper .form-group{margin-bottom: 22px;}
+
+.tableCustom{margin-bottom: 0;}
+.tableCustom thead th{text-align: left; font-size: 13px;}
+
+.leftText{text-align: left; color: #000;}
+.leftText p{text-align: left; margin: 0; font-size: 15px;}
+
+.rightText{text-align: right; color: #000;}
+.rightText p{text-align: right; margin: 0; font-size: 15px;}
+
+.fieldTxtForm{line-height: 38px; margin-bottom: 0; float: left;}
+.uploadForm form{width: 100%;}
+.uploadForm form .fileBrowse {
+	float: left; display: inline-block; width: 100%; max-width: 350px; margin-left: 15px;
+	}
+.uploadForm form .btn-success{float: left; margin-left: 15px;}
+
+.uploadCsvBox{
+    max-width: 450px;
+    margin: 0 auto;
+    background: #f7f7f7;
+    border-radius: 6px;
+    padding:15px 20px;
+}
+
+.portfolioViewCustom {
+    background: #f7f7f7;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: #e4e2e2 0px 0px 6px 3px;
+}
+
+.statementBTn{width:100%; text-align:right;}
+.statementBTn .allStatementBtn{display:inline-block; margin-left:15px;}
+.statementTitle{padding-top:15px; padding-bottom:15px;}
+.statementTitle h5{color:#333; margin:0; padding:0; font-size: 22px;}
+.statementBottomPrnt{padding-top:15px;}
+.innerPage .uploadForm{max-width: 584px;}
+
+
+.uploadBtn {
+    color: #fff;
+    background-color: #3b4bb2;
+    border-color: #3b4bb2;
+}
+.uploadBtn:hover {
+    color: #fff;
+    background-color: #4359e3;
+    border-color: #4359e3;
+}
+
+.loginWraper p.log-uid{text-align: left;
+font-size: 13px;
+padding-top: 6px; margin-bottom: 0;
+color: #555;
+font-weight: 700;}
+
+.loginWraper p.log-pass{text-align: left;
+font-size: 13px;
+padding-top: 6px; margin-bottom: 0;
+color: #555;
+font-weight: 700;}
+
+
+
+.uploadCSV{max-width:650px; width:100%; margin:0 auto; text-align: center;}
+.uploadCSV .csvBtn{display:inline-block; margin:0 15px;}

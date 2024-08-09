@@ -1,0 +1,168 @@
+
+@media only screen and (max-width:1500px) {
+.welcomeBotSecBotec .wrapper {max-width: 1140px;}
+
+.noticeSec .wrapper {max-width: 1140px;}
+
+.welcomeBotSecBotec{padding-left: 75px; padding-right: 75px;}
+.noticeSec {padding-left: 75px; padding-right: 75px;}
+
+}
+
+
+@media only screen and (max-width: 950px) {
+.innerPageLeftSub ul.leftNav li a {padding: 15px 0px 15px 10px; font-size: 14px;}
+.bannerSec .leftTxtSec h2 {font-size: 34px; line-height: 46px;}
+
+.noticeSec {padding-left: 20px; padding-right: 20px;}
+.programSub h2 {font-size: 20px;}
+.latestUpdateSecLeft h2 {font-size: 20px;}
+.programSub ul li {background: url("../images/arro.png") no-repeat 0 5px; margin: 0 0 10px 0; padding: 0 0 0 14px; font-size: 15px;}
+	
+.latestUpdateSecLeft ul.listNotice li {font-size: 14px; line-height: 19px;}
+	
+.programSub {padding-bottom: 25px;}
+	
+  
+}
+
+@media only screen and (max-width:850px) {
+	.bannerTopSub .logoSec img{max-width: 70px;}
+	
+.btnResponsive{display: block;}
+.bannerTopSub .topNavSec ul.loginNav, .bannerTopSub .topNavSec ul.mainNav{display: none;}
+
+.bannerTop{position: inherit;}
+.bannerSec{min-height: inherit;}
+	
+.bannerSec .leftTxtSec {margin: 0 15px 0 15px; padding: 15px 15px; background: rgba(255,255,255,.4);}
+	
+.topbox i {font-size: 47px;}
+.topbox h2 {font-size: 20px;}
+.topbox p {font-size: 14px; line-height: 24px;}
+	
+.topNavSec .navMenuAdmin{display: none;}
+	
+}
+
+@media only screen and (max-width:767px) {	
+	
+.footerLeft ul{display: block;}
+.footerLeft ul li {width:50%; padding-right:35px;}
+
+.footerLeft{max-width:100%;}
+.footerRight{max-width:100%; margin-top: 20px;}
+	
+.welcomeBotSecTopSec {padding-top: 30px; padding-bottom: 10px;}	
+	
+.welcomeBotSecBotec {border-radius: 185px 0 0 0;}
+	
+.welcomeBotSecBotec {padding-left: 35px; padding-right: 35px;}
+.welcomeTxtLeft h1 {font-size: 26px; margin-bottom: 16px; line-height: 38px;}
+.welcomeTxtLeft h1 span {font-size: 38px;}
+.welcomeTxtLeft p {font-size: 15px; line-height: 27px;}
+
+.noticeSecSub{display: block;}
+.latestUpdateSecLeft{max-width: 100%; padding-left: 0; padding-right: 0;}
+.ongoingProgram{max-width: 100%;}
+	
+.programSub {margin-top: 0;}
+	
+}
+	
+@media only screen and (max-width:700px) {	
+	
+.innerPageLeft{max-width:100%; margin-bottom: 25px;}
+.innerPageRight{max-width:100%;}
+.innerPageRightSub{min-height:inherit;}
+	
+.innerPageTitle {left: 0; font-size: 22px; padding: 12px 11px 12px 11px; min-width: 100%; margin: 0; text-align:left; position:relative;}
+.innerPageTitle::before, .innerPageTitle::after{display:none;}
+.bannerInner {padding: 10px 0; min-height:inherit;}
+.innerPage {padding-top: 10px;}
+	
+	
+.contactPageSec{max-width:100%; margin-bottom: 25px;}
+.contactPageSec .imgBox img{width:100%;}	
+
+.footerWhite {font-size: 12px;}
+	
+.footerRight ul.address li.addresList {font-size: 13px;}
+.footerRight ul.address li.emailList a {font-size: 13px;}
+.footerRight ul.address li.phonList {font-size: 13px;}
+	
+.footerLeft h2 {font-size: 18px; padding-bottom: 7px;}
+.footerRight h2	{font-size: 18px; padding-bottom: 7px;}
+	
+	
+.contactLeft .contactFormLeft ul li input[type="text"], .contactLeft .contactFormLeft ul li input[type="email"], .contactLeft .contactFormLeft ul li input[type="tel"], .contactLeft .contactFormLeft ul li select {border-radius: 10px; font-size: 15px; padding: 8px 10px;}
+
+.contactLeft .contactFormLeft ul li textarea{border-radius: 10px; font-size: 15px; padding: 8px 10px; height: 88px;}
+	
+.welcomeTxtLeft{max-width: 100%; float:none; margin-bottom: 15px;}
+.welcomeImgRight{max-width: 100%; float:none;}
+	
+	
+.welcomeTxtLeft h1 {font-size: 24px; margin-bottom: 16px; line-height: 32px;}
+.welcomeTxtLeft h1 span {font-size: 30px; display: inline-block;}
+	
+}
+
+@media only screen and (max-width: 650px) {
+	
+.bannerSec .leftTxtSec h2 {font-size: 25px; line-height: 36px; margin-bottom: 13px;}
+.welcomeBotSecBotec {border-radius: 100px 0 0 0; padding-top: 42px;}
+	
+.welcomeBotSecBotec {padding-left: 15px; padding-right: 15px;}
+	
+}
+
+
+@media only screen and (max-width:575px) {
+.bannerSec {padding: 30px 0;}
+.bannerSec .leftTxtSec p {line-height: 26px;}
+	
+.welcomeTxtLeft h1 {font-size: 20px; margin-bottom: 16px;line-height: 29px;}
+
+.latestUpdateSecLeft {padding-top: 30px;}
+	
+.programSub .imgLeft, .programSub .imgRight{display: none;}
+.ongoingProgram{padding: 0;}
+	
+.programSub {margin-top: 0; border-radius: 10px 10px 0 0; padding-top: 20px;}
+	
+.welcomeBotSecTopSec {text-align: center;}
+	.welcomeBotSecTopSec .col-sm-4{margin-bottom: 10px;}	
+	
+}
+
+
+@media only screen and (max-width: 400px) {
+.footerLeft ul li {width:100%; padding-right:0;}
+	
+.bannerSec .leftTxtSec h2 {font-size: 19px;	line-height: 28px; margin-top: 6px;}
+.bannerSec .leftTxtSec p {line-height: 22px; font-size: 16px;}
+	
+.bannerSec {padding: 20px 0;}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

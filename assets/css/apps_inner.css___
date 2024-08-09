@@ -1,0 +1,87 @@
+
+
+
+.bannerSecInner{background: url("../images/bannerInner.jpg") no-repeat; background-size: cover; min-height: 488px; padding-top: 235px; padding-bottom: 220px;
+	text-align: center; position: relative;}
+.bannerSecInner .curveInner{    position: absolute; width: 100%; left: 0; bottom: 0;}
+
+
+.bannerSecInner h1{font-family: 'Montserrat', sans-serif; font-size: 60px; color: #fff; text-shadow:0px 0px 6px  #000;}
+.bannerSecInner h1 span{color: #155dc8; font-weight: 900;}
+
+.bannerSecInner .blockSec{background: rgba(10,8,15, 0.7); border-radius: 5px; padding: 18px 13px; display: inline-block; margin-top: 38px; 
+	font-family: 'Montserrat', sans-serif; font-size: 16px; color: #fff; line-height: 33px;}
+
+.bannerSecInner .blockSec span{color: #ffd800; font-weight: 900;}
+
+
+
+.innerContentSec{padding: 70px 0; display: inline-block; width: 100%; flex: 1 0 auto;}
+
+.innerContentSec .innerContentSecSub p {
+    font-size: 16px;
+    color: #6b6b6b;
+    line-height: 29px;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+.priceChart {
+    margin-bottom: 30px; box-shadow: #e4e2e2 0px 0px 6px 3px; border-radius: 0 75px 0 53px; padding:22px 20px 40px 20px;
+background: #fff;
+}
+
+.priceChart h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    margin:0 0 12px -20px;
+    padding: 11px 55px 11px 20px;
+    background: #3f51b5;
+    border-radius: 0 50px 50px 0;
+    display: inline-block;
+}
+
+
+
+.priceChart .priceBoxMain table.priceTable{margin: 0; padding: 0; border: none;}
+.priceChart .priceBoxMain table.priceTable thead tr th{border: none; padding: 0; text-align: left; margin: 0;}
+.priceChart .priceBoxMain table.priceTable tbody tr td{border: none; padding: 0 0 5px 0; text-align: left; margin: 0; color:#3f51b5; font-size: 15px;}
+.priceChart .priceBoxMain table.priceTable tbody tr td i{margin-right: 3px;}
+.priceChart .priceBox{padding-right: 18px; width: 12.5%;}
+.priceChart .priceBox:last-child{padding-right: 0;}
+.priceChart .priceBoxMain h3 {
+    color: #3f51b5;
+font-size: 18px;
+font-weight: 600;
+padding-bottom: 0;
+border-bottom: none;
+padding-right: 22px;
+margin-bottom: 10px;
+display: inline-block;
+
+}
+
+.priceChart .priceBox ul{list-style-type: none; margin: 0; padding: 0;}
+.priceChart .priceBox ul li{color:#2D2E2E; font-size: 15px; margin-bottom:5px;}
+.priceChart .priceBox ul li a{color: #2D2E2E;}
+.priceChart .priceBox ul li a:hover{color: #23B04A;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
